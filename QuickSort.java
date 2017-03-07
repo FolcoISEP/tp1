@@ -31,5 +31,5 @@ public class QuickSort {
 			// TODO Auto-generated method stub
 
 		}
-
+ 
 	}
